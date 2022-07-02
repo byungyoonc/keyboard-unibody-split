@@ -1,0 +1,18 @@
+[submodule "unibody-split/MX_Alps_Hybrid.pretty"]
+	path = unibody-split/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "unibody-split/random-keyboard-parts.pretty"]
+	path = unibody-split/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "unibody-split/teensy.pretty"]
+	path = unibody-split/teensy.pretty
+	url = https://github.com/blackketter/teensy.pretty.git
+[submodule "unibody-split/teensy_library"]
+	path = unibody-split/teensy_library
+	url = https://github.com/XenGi/teensy_library.git
+[submodule "unibody-split/KiCad-RP-Pico"]
+	path = unibody-split/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico
+[submodule "unibody-split/ProMicroKiCad"]
+	path = unibody-split/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad.git
