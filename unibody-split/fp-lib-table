@@ -7,4 +7,7 @@
   (lib (name "RP-Pico Libraries")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/teensy.pretty")(options "")(descr ""))
   (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+  (lib (name "unibody-split")(type "KiCad")(uri "${KIPRJMOD}/unibody-split.pretty")(options "")(descr ""))
+  (lib (name "pwm3360")(type "KiCad")(uri "${KIPRJMOD}/charybdis-pmw-3360-sensor-pcb/sensor/pwm3360.pretty")(options "")(descr ""))
+  (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/charybdis-pmw-3360-sensor-pcb/sensor/local.pretty")(options "")(descr ""))
 )
