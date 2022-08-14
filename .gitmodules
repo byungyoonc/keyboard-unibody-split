@@ -16,3 +16,6 @@
 [submodule "unibody-split/ProMicroKiCad"]
 	path = unibody-split/ProMicroKiCad
 	url = https://github.com/Biacco42/ProMicroKiCad.git
+[submodule "unibody-split/charybdis-pmw-3360-sensor-pcb"]
+	path = unibody-split/charybdis-pmw-3360-sensor-pcb
+	url = https://github.com/Bastardkb/charybdis-pmw-3360-sensor-pcb.git
