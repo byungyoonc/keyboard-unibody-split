@@ -19,3 +19,6 @@
 [submodule "unibody-split/charybdis-pmw-3360-sensor-pcb"]
 	path = unibody-split/charybdis-pmw-3360-sensor-pcb
 	url = https://github.com/Bastardkb/charybdis-pmw-3360-sensor-pcb.git
+[submodule "unibody-split/hackpack-v4-hardware"]
+	path = unibody-split/hackpack-v4-hardware
+	url = https://github.com/twilio/hackpack-v4-hardware.git

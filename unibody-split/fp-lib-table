@@ -10,4 +10,5 @@
   (lib (name "unibody-split")(type "KiCad")(uri "${KIPRJMOD}/unibody-split.pretty")(options "")(descr ""))
   (lib (name "pwm3360")(type "KiCad")(uri "${KIPRJMOD}/charybdis-pmw-3360-sensor-pcb/sensor/pwm3360.pretty")(options "")(descr ""))
   (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/charybdis-pmw-3360-sensor-pcb/sensor/local.pretty")(options "")(descr ""))
+  (lib (name "HackPack_Footprints")(type "KiCad")(uri "${KIPRJMOD}/hackpack-v4-hardware/KiCad/HackPack_Footprints.pretty")(options "")(descr ""))
 )
