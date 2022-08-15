@@ -13,4 +13,5 @@
   (lib (name "SW-Microchip")(type "Legacy")(uri "${KIPRJMOD}/charybdis-pmw-3360-sensor-pcb/sensor/lib/SW-Microchip.lib")(options "")(descr ""))
   (lib (name "TXS0104EDR")(type "Legacy")(uri "${KIPRJMOD}/charybdis-pmw-3360-sensor-pcb/sensor/lib/TXS0104EDR.lib")(options "")(descr ""))
   (lib (name "HackPackv4-cache")(type "Legacy")(uri "${KIPRJMOD}/hackpack-v4-hardware/KiCad/HackPackv4-cache.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
 )

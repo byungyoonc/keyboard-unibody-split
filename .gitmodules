@@ -22,3 +22,6 @@
 [submodule "unibody-split/hackpack-v4-hardware"]
 	path = unibody-split/hackpack-v4-hardware
 	url = https://github.com/twilio/hackpack-v4-hardware.git
+[submodule "unibody-split/kbd"]
+	path = unibody-split/kbd
+	url = https://github.com/foostan/kbd.git
