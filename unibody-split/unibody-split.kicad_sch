@@ -973,7 +973,7 @@
   )
 
   (no_connect (at 63.5 53.34) (uuid 1cbc1c89-16cc-4793-824c-4090ae88ad03))
-  (no_connect (at 63.5 40.64) (uuid 1cbc1c89-16cc-4793-824c-4090ae88ad03))
+  (no_connect (at 63.5 40.64) (uuid 1cbc1c89-16cc-4793-824c-4090ae88ad04))
   (no_connect (at 111.125 48.26) (uuid 1e12790a-da72-40ac-8f82-47ca25509629))
   (no_connect (at 131.445 50.8) (uuid 1e12790a-da72-40ac-8f82-47ca2550962a))
   (no_connect (at 63.5 27.94) (uuid 509eaa55-5226-4d5f-bd57-a3f69edd2953))
@@ -3055,7 +3055,7 @@
     (uuid 7ea9b7cb-8f63-42a2-bb9d-0ae9b9f5fa5b)
     (property "Reference" "RESET1" (id 0) (at 180.34 152.273 0))
     (property "Value" "SW_PUSH" (id 1) (at 180.34 154.5844 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P" (id 2) (at 180.34 158.75 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_CK_RS282G05A3" (id 2) (at 180.34 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 180.34 158.75 0))
@@ -3327,7 +3327,7 @@
     (property "Value" "OLED" (id 1) (at 106.68 104.14 0)
       (effects (font (size 1.1938 1.1938)) (justify left))
     )
-    (property "Footprint" "kbd:OLED_v2" (id 2) (at 90.17 100.965 0)
+    (property "Footprint" "unibody-split:OLED_v2" (id 2) (at 90.17 100.965 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 90.17 100.965 0)
@@ -4163,7 +4163,7 @@
       (reference "IC1") (unit 1) (value "AP130-20") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/a8e7698b-c7a7-47cb-a0b9-26cf74a23d1b"
-      (reference "OL1") (unit 1) (value "OLED") (footprint "kbd:OLED_v2")
+      (reference "OL1") (unit 1) (value "OLED") (footprint "unibody-split:OLED_v2")
     )
     (path "/680a68fc-2ed0-45fc-8a97-39ab1f619573"
       (reference "R1") (unit 1) (value "39") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -4172,7 +4172,7 @@
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/7ea9b7cb-8f63-42a2-bb9d-0ae9b9f5fa5b"
-      (reference "RESET1") (unit 1) (value "SW_PUSH") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
+      (reference "RESET1") (unit 1) (value "SW_PUSH") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
     )
     (path "/61af01d5-7163-43c5-ad16-3a7bdac0b9e9"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "unibody-split:MX_Choc_Hotswap")
